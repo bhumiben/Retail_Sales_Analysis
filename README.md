@@ -1,5 +1,6 @@
 # Retail_Sales_Analysis
 Read Data: Loaded CSV data into a Pandas DataFrame.
+
 Data Cleaning:
 Checked for and removed rows with missing values in any column.
 Data Manipulation and Analysis:
